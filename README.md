@@ -1,4 +1,4 @@
-### Olá! Aqui é o Ricardo, sou Desenvolvedor Web Font-End, sempre em busca de conhecimento e atuando com tecnologias como:  :computer: :iphone:
+### Olá! Aqui é o Ricardo, sou Desenvolvedor Web Font-End, sempre em busca de conhecimentos, e atuando com tecnologias como:  :computer: :iphone:
 <br>
 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
